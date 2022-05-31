@@ -1,4 +1,4 @@
-## recurrentSF_3T_CodeRepo
+## Coarse-to-Fine_3T_fMRI_CodeRepo
 
 
 All codes for the CTF_V1 experiment together in a folder:
