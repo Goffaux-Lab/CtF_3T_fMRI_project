@@ -1,5 +1,4 @@
 ## Coarse-to-Fine_3T_fMRI_CodeRepo
-## Coarse-to-Fine_3T_fMRI_CodeRepo
 [Open Science Framework project](https://osf.io/echgr/?view_only=79de969edd4d4f2db493d013d0016939).
 
 All codes for the CTF_V1 experiment together in a folder:
